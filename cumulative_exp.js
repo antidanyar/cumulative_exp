@@ -42,7 +42,7 @@ var items = [
     ["instructions", "Message", {html: { include: "instructions.html" }} ],
 
     //
-    // Six practice items for self-paced reading (all in the SPR mode, 3/6 with an acceptability Judgment task).
+    // Шесть тестовых предложений
     //
                 
     ["practice", "DashedSentence", {s: "Это тренировочные предложения, которые позволят вам привыкнуть к такому способу чтения и оценке предложений."}],
@@ -51,8 +51,8 @@ var items = [
                               q: "Вы — испытуемый лингвистов. Вы любите проходить эксперименты?",
                               as: ["Да", "Очень!"]}],
     ["practice", "DashedSentence", {s: "Каждому следующему предложению нужно будет поставить оценку по шкале от 1 до 7."}],
-    ["practice", "DashedAcceptabilityJudgment", {s: "Этому прекрасному предложению нужно поставить высокую оценку, в нём всё хорошо."}],
-    ["practice", "DashedAcceptabilityJudgment", {s: "Предложение это ужасное, ставить единица нужно, тут всё очень плохо."}],
+    ["practice", "DashedAcceptabilityJudgment", {s: "Этому предложению нужно поставить высокую оценку, в нём всё хорошо."}],
+    ["practice", "DashedAcceptabilityJudgment", {s: "Предложение это ужасный, ставить единица нужно, тут всё крайне плохо."}],
     ["practice", "DashedAcceptabilityJudgment", {s: "Это последнее тренировочное предложение, после которого начнётся эксперимент."}],
     ["practice", "FlashSentence", {s: "Мы начинаем!"}],
     
@@ -76,7 +76,7 @@ var items = [
     [["no_D", 8], "DashedAcceptabilityJudgment", {s: "woah kenny-no-D-8"}], 
 
 
-    //16 филлеров (TODO: разделить филлеры на совсем плохие и совсем хорошие)
+    //16 филлеров
 
     ["filler-GOOD", "DashedAcceptabilityJudgment", {s: "woah kenny-filler-good"}],
     ["filler-GOOD", "DashedAcceptabilityJudgment", {s: "woah kenny-filler-good"}],

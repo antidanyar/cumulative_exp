@@ -134,11 +134,11 @@ var items = [
 
     //16 пар филлеров 
                         
-    [["filler-GOOD", 9], "DashedAcceptabilityJudgment", {s: "Этот красивый мальчик хорошо рисует, прям как да Винчи"},
+    [["filler-GOOD", 9], "DashedAcceptabilityJudgment", {s: "Этот красивый мальчик хорошо рисует, прямо как да Винчи"},
                     "Question", {hasCorrect: true, randomOrder: true,
                     q: "С кем идёт сравнение?",
                     as: ["с да Винчи", "в Айвазовским", "с Поллоком"]}],
-    [["filler-BAD", 9], "DashedAcceptabilityJudgment", {s: "Этот красивый девочка хорошо рисует, прям как да Винчи"},
+    [["filler-BAD", 9], "DashedAcceptabilityJudgment", {s: "Этот красивый девочка хорошо рисует, прямо как да Винчи"},
                     "Question", {hasCorrect: true, randomOrder: true,
                     q: "С кем идёт сравнение?",
                     as: ["с да Винчи", "в Айвазовским", "с Поллоком"]}],

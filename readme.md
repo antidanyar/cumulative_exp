@@ -1,1 +1,1 @@
-ссылка на эксперимент: https://spellout.net/ibexexps/antidanyar/cumulative/experiment.html
+ссылка на эксперимент: https://spellout.net/ibexfarm/manage/cum_experiment
